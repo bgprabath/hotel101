@@ -1,5 +1,5 @@
 a{
-    color: gainsboro
+    color: gainsboro;
 }
 
 #nav{
@@ -7,10 +7,12 @@ a{
 }
 
 .social-link{
-background-color: rgb(124,124,124);
+background-color: black;
 
 }
 
 .page-footer{
     background-color: black;
 }
+
+.main-footer
