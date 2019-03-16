@@ -1,0 +1,16 @@
+a{
+    color: gainsboro
+}
+
+#nav{
+    border-bottom: gainsboro 3px solid
+}
+
+.social-link{
+background-color: rgb(124,124,124);
+
+}
+
+.page-footer{
+    background-color: black;
+}
